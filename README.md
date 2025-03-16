@@ -6,7 +6,6 @@
 <img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp;
 <img style="height:24px" title="mysql" src="https://github.com/user-attachments/assets/ccc57ad3-5beb-480f-b5d8-dddfa3037da3"/> &nbsp;
 <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
-<img style="height:24px" title="github actions" src="https://github.com/user-attachments/assets/913c617d-314d-4687-9347-901b7b730717"/> &nbsp;
 <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
 <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
 <img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
