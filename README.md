@@ -6,7 +6,6 @@
 <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
 <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
 <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
-<img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
 
 
 https://kushalkumarsaha.com
