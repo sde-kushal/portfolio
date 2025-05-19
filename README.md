@@ -15,7 +15,7 @@ I&#x27;m Kushal Kumar, a tech-stack flexible SDE - proficient in Backend & DevOp
 
 This website summarizes my work, passion and projects in one corner of the internet.
 
-## :speech_balloon: Let's Connect
+## :speech_balloon: Let's Connect 
 
 The only forward approach in the IT & software is that **practicality > theoretical knowledge**.  
 
