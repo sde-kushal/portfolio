@@ -27,7 +27,6 @@ The only forward approach in the IT & software is that **practicality > theoreti
   <tr><td>Discord</td><td>https://discordapp.com/users/628212302004355078</td></tr>
 </table> 
 
-
 <hr>
 
 ## ⚖️ License
