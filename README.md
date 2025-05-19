@@ -7,7 +7,6 @@
 <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
 <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
 
-
 https://kushalkumarsaha.com
 
 I&#x27;m Kushal Kumar, a tech-stack flexible SDE - proficient in Backend & DevOps. I take side commissions for modern UI/UX designs too. 
