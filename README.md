@@ -9,7 +9,7 @@
 
 https://kushalkumarsaha.com
 
-I&#x27;m Kushal Kumar, a tech-stack flexible SDE - proficient in Backend & DevOps. I take side commissions for modern UI/UX designs too. 
+I&#x27;m Kushal Kumar, a tech-stack flexible SDE - proficient in Backend & DevOps. I take side commissions for web designs too. 
 
 > `Check out old site:` &nbsp; https://portfolio.kushalkumarsaha.com
 
